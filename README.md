@@ -1,2 +1,4 @@
-# TCPsockets
-This is a small project related to cybersecurity file upload with TCP sockets  on the client and server side
+# File Transfer using TCP Socket in Python3
+A simple client-server program, where client send a file to server. 
+
+

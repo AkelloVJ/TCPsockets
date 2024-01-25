@@ -1,0 +1,4 @@
+First: This is an outline of our exam dates
+1. 12/8/2023: Databases
+2. 12/9/2023: Cyberoptics
+3. 12/10/2023: Cybersecurity
